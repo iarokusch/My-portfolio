@@ -1,0 +1,89 @@
+/* * {
+    box-sizing: border-box;
+}
+body {
+    height: 100vh;
+    background-color: whitesmoke;
+    margin: 20px 10px;
+}
+
+header {
+    border: 1px black dotted;
+    padding: 10px;
+}
+.toptext p {
+    display: inline;
+}
+.maintext h1 {
+    color: #42b883;
+    margin: 0;
+}
+.maintext {
+    text-align: center;
+    font-size: 7rem;
+    font-family: 'Pacifico', cursive;
+}
+main {
+    display: flex;
+    width: 100%;
+}
+.box1 {
+    margin-right: 10px;
+    justify-content: center;
+    align-items: flex-end;
+    display: flex;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 50%;
+    height: 700px;
+    background-image: url(/img/istockphoto-1022385812-170667a.jpg);
+}
+.box1 div,
+.box2 div,
+.box3 div {
+    width: 100%;
+    background-color: rgb(52, 116, 116, 0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box1 h2 {
+    font-family: 'Courgette', cursive;
+    color: white;
+    font-size: 5rem;
+}
+.box2,
+.box3 {
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    width: 100%;
+    height: 350px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.box2 {
+    background-image: url(/img/italianseasoninghomemade.jpg);
+}
+.box2 h3 {
+    font-family: 'Courgette', cursive;
+    color: white;
+    font-size: 2rem;
+}
+.box3 {
+    background-image: url(/img/fruit-vegetables-cropped.jpg);
+}
+.twobox {
+    width: 50%;
+}
+.box3 p {
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+footer {
+    color: white;
+    background-color: #ff7e67;
+} */
